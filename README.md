@@ -10,6 +10,6 @@ Learning Java and Developing Android apps in the Java + Android DeepDive Bootcam
 
 ## Projects
 
-* [Temperature Converter] (https://github.com/mgraham21/temp-convert)
+* [Temperature Converter](https://github.com/mgraham21/temp-convert)
 
 * [Android Hello World](https://github.com/mgraham21/android-hello-world)
